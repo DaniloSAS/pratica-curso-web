@@ -1,0 +1,40 @@
+.menu{
+	background-color: #f1f2f6;
+}
+
+.center{
+	text-align: center;
+}
+
+.profile{
+	width: 320px;
+	height: 320px;
+	border-radius: 50%;
+	border-style: double;
+	border-color: #007bff;
+	border-width: 0.5rem;
+}
+
+.home{
+	background-image: url('../images/bg.jpg');
+	background-size: cover;
+}
+
+.title{
+	font-weight: bold;
+}
+
+.footer{
+	border-top: 1px solid #ccc;
+	padding-top: 6px;
+}
+
+#contato{
+	background-color: #2f3640;
+	padding: 1rem;
+}
+
+.dev{
+	font-weight: lighter;
+    font-style: italic;
+}
